@@ -2,6 +2,8 @@
 ---
 Deployment link :-  https://drive.google.com/file/d/1DBjy1EvCd3TJ0qvV5cwazYM_WyYSQNki/view?usp=sharing 
 
+Project Document :- https://github.com/IBM-EPBL/IBM-Project-6533-1658831062/blob/main/Final%20Deliverables/Project%20Report/Project%20Report/IBM%20PROJECT%20REPORT.pdf
+
 # About this Project
 The user will login into the website and go through the products available on the website.  Instead of navigating to several screens for booking products online, the user can directly talk to Chatbot regarding the products.  Get the recommendations based on information provided by the user.
 
